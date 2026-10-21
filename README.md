@@ -18,8 +18,9 @@ A data analysis project for the IBM Data Analyst Professional Certificate. It us
 ![Future technology trends](tab2.png)
 ![Demographics](tab3.png)
 
-## Report
-[Data Analyst Capstone Project Report (PDF)](Data%20Analyst%20Capstone%20Project%20Report.pdf)
+## Report and badge
+- [Data Analyst Capstone Project Report (PDF)](Data%20Analyst%20Capstone%20Project%20Report.pdf)
+- [Data Analyst Capstone Project badge (Credly)](https://www.credly.com/badges/57257f2e-84ed-4c1d-bcf0-6793fd48747e/public_url)
 
 ## Methods
 1. Collected data with Python `requests` (job postings API) and `BeautifulSoup` (web scraping).
