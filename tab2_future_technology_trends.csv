@@ -1,0 +1,37 @@
+Category,Technology,Current_Percent,Next_Year_Percent,Change_Points
+Language,JavaScript,62.8,42.6,-20.2
+Language,HTML/CSS,53.3,37.2,-16.1
+Language,Python,51.4,44.9,-6.5
+Language,SQL,51.4,40.2,-11.2
+Language,TypeScript,38.7,36.3,-2.4
+Language,Bash/Shell,34.2,24.7,-9.5
+Language,Java,30.5,19.1,-11.4
+Language,C#,27.3,23.2,-4.1
+Language,C++,23.1,19.5,-3.6
+Language,C,20.4,14.8,-5.6
+Language,Rust,12.7,30.9,18.2
+Language,Go,13.6,24.8,11.2
+Database,PostgreSQL,50.8,56.4,5.6
+Database,MySQL,42.0,28.8,-13.2
+Database,SQLite,34.6,31.7,-2.9
+Database,SQL Server,26.4,18.6,-7.8
+Database,MongoDB,25.9,25.8,-0.1
+Database,Redis,20.8,25.5,4.7
+Database,MariaDB,17.9,14.0,-3.9
+Database,Elasticsearch,13.0,14.7,1.7
+Database,Oracle,10.5,6.2,-4.3
+Database,DynamoDB,8.2,8.2,0.0
+Database,Supabase,4.1,6.9,2.8
+Web framework,Node.js,43.8,38.2,-5.6
+Web framework,React,42.4,40.0,-2.4
+Web framework,jQuery,23.0,11.0,-12.0
+Web framework,Next.js,19.2,22.1,2.9
+Web framework,Express,19.1,14.6,-4.5
+Web framework,Angular,18.4,16.5,-1.9
+Web framework,ASP.NET Core,18.1,17.9,-0.2
+Web framework,Vue.js,16.6,19.7,3.1
+Web framework,ASP.NET,13.9,8.4,-5.5
+Web framework,Flask,13.8,10.4,-3.4
+Web framework,Svelte,7.0,13.9,6.9
+Web framework,Spring Boot,13.7,13.2,-0.5
+Web framework,Django,12.9,12.9,0.0

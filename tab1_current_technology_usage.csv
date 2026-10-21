@@ -1,0 +1,41 @@
+Category,Technology,Respondents,Percent_of_answered,Answered_total
+Language,JavaScript,37492,62.8,59745
+Language,HTML/CSS,31816,53.3,59745
+Language,Python,30719,51.4,59745
+Language,SQL,30682,51.4,59745
+Language,TypeScript,23150,38.7,59745
+Language,Bash/Shell,20412,34.2,59745
+Language,Java,18239,30.5,59745
+Language,C#,16318,27.3,59745
+Language,C++,13827,23.1,59745
+Language,C,12184,20.4,59745
+Database,PostgreSQL,25536,50.8,50254
+Database,MySQL,21099,42.0,50254
+Database,SQLite,17365,34.6,50254
+Database,SQL Server,13275,26.4,50254
+Database,MongoDB,13007,25.9,50254
+Database,Redis,10463,20.8,50254
+Database,MariaDB,8991,17.9,50254
+Database,Elasticsearch,6533,13.0,50254
+Database,Oracle,5273,10.5,50254
+Database,DynamoDB,4138,8.2,50254
+Cloud platform,AWS,22191,52.4,42366
+Cloud platform,Microsoft Azure,12850,30.3,42366
+Cloud platform,Google Cloud,11605,27.4,42366
+Cloud platform,Cloudflare,6974,16.5,42366
+Cloud platform,Firebase,6443,15.2,42366
+Cloud platform,Vercel,5491,13.0,42366
+Cloud platform,Digital Ocean,5409,12.8,42366
+Cloud platform,Heroku,3798,9.0,42366
+Cloud platform,Netlify,3238,7.6,42366
+Cloud platform,VMware,3043,7.2,42366
+Web framework,Node.js,19772,43.8,45161
+Web framework,React,19167,42.4,45161
+Web framework,jQuery,10381,23.0,45161
+Web framework,Next.js,8681,19.2,45161
+Web framework,Express,8614,19.1,45161
+Web framework,Angular,8306,18.4,45161
+Web framework,ASP.NET Core,8187,18.1,45161
+Web framework,Vue.js,7483,16.6,45161
+Web framework,ASP.NET,6265,13.9,45161
+Web framework,Flask,6245,13.8,45161
