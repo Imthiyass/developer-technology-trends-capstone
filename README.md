@@ -14,9 +14,9 @@ A data analysis project for the IBM Data Analyst Professional Certificate. It us
 ## Dashboard (Google Looker Studio)
 [Open the live dashboard](https://datastudio.google.com/reporting/20623146-91b3-40bb-9698-15e30db92d9f)
 
-![Current technology usage](images/tab1.png)
-![Future technology trends](images/tab2.png)
-![Demographics](images/tab3.png)
+![Current technology usage](tab1.png)
+![Future technology trends](tab2.png)
+![Demographics](tab3.png)
 
 ## Report
 [Data Analyst Capstone Project Report (PDF)](Data%20Analyst%20Capstone%20Project%20Report.pdf)
